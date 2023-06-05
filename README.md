@@ -1,0 +1,4 @@
+# bookmanage_mysql
+基础Java图书管理
+使用mysql进行数据管理
+使用Mybatis进行sql操作
